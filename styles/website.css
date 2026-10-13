@@ -4,7 +4,7 @@
     text-align: center;
     margin-top: 10px;
     margin-bottom: 0px;
-    color: rgba(255, 255, 255, 0.644);
+    color: white;
 }
 
 .subtitle {
@@ -12,7 +12,7 @@
     text-align: center;
     margin-bottom: 0px;
     font-size: 26px;
-    color: rgba(255, 255, 255, 0.644);
+    color: white;
 }
 
 .intro {
@@ -23,7 +23,7 @@
     line-height: 26px;
     font-size: 18px;
     width: 200px;
-    color: rgba(255, 255, 255, 0.644);
+    color: white;
 }
 
 body {
