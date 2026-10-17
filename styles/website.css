@@ -48,7 +48,7 @@ body {
     margin-right: auto;
     display: block;
     opacity: 1;
-    transition: opacity 1.0s ease;
+    transition: opacity 0.2s ease;
 }
 
 .image:hover {
